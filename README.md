@@ -17,27 +17,10 @@ We provide **end-to-end support** including source code, documentation, research
 
 ---
 
-### 📌 Project Categories & Counts
 
-Our projects span the most in-demand technological domains:
+## ✨Advanced IEEE Final Year Projects:
 
-| Category | Count | Focus |
-| :--- | :--- | :--- |
-| **Machine Learning** | 15 | Healthcare, Finance, Social Media Analytics |
-| **Deep Learning / CV** | 5 | Image Processing, Generative Models, Diagnostics |
-| **Blockchain** | 6 | Decentralized Ledger for Security & Transparency |
-| **Cybersecurity** | 6 | Fraud Detection, Malware Analysis, Cryptography |
-| **IoT & Smart Systems** | 5 | Real-time Monitoring, Automation, Predictive Systems |
-| **NLP & AI** | 5 | Text Processing, Chatbots, Sentiment Analysis |
-| **Data Analytics** | 5 | Recommendation Systems, Sales Forecasting |
-| **Web Development (MERN)** | 6 | Full-Stack Applications integrated with ML/IoT |
-| **Total Projects** | **50+** | |
-
----
-
-## ✨Advanced IEEE Final Year Projects: Enhanced List (Source Code & Full Support)
-
-This list contains high-quality, academic-focused projects spanning Machine Learning, Deep Learning, Cybersecurity, NLP, and more. Each slug links to the project details on the NS Software Solutions website.
+This list contains high-quality, academic-focused projects spanning Machine Learning, Deep Learning, Cybersecurity, NLP, and more. Each link redirects to the project details on the NS Software Solutions website.
 
 ### 🧠 Machine Learning & Deep Learning Projects (Diagnostics & Prediction)
 
