@@ -1,5 +1,5 @@
 ## 🚀 50+ Enhanced IEEE Final Year Projects: Source Code & Full Report (CSE/IT/MCA/MTech)
-
+![NS Software Logo](https://i.ibb.co/4wX7Byzg/Youtube-thumbnail-background-Made-with-Poster-My-Wall.jpg)
 This repository offers a curated collection of **50+ high-quality IEEE and academic final year projects**, complete with all necessary resources for academic submission and practical implementation.
 
 We provide **end-to-end support** including source code, documentation, research paper drafting, and plagiarism compliance.
