@@ -1,56 +1,59 @@
-🚀 50+ IEEE Final Year Projects With Source Code & Report (CSE • IT • MCA • MTech)
+# 🚀 50+ IEEE Final Year Projects With Source Code & Report (CSE • IT • MCA • MTech)
 
-Complete academic projects with Source Code, Report, PPT, Installation Support, Research Paper Assistance, Plagiarism & AI Check (Turnitin) Fixing.
+Complete academic projects with **Source Code, Report, PPT, Installation Support, Research Paper Assistance, Plagiarism Check (<15%), AI/Turnitin Fixing & Live Support**.
 
-📧 Email: info.nssoftwaresolutions@gmail.com
-🌐 Website: https://www.nssoftwaresolutions.in/
-📦 Projects: https://www.nssoftwaresolutions.in/projects
+📧 **Email:** info.nssoftwaresolutions@gmail.com  
+🌐 **Website:** https://www.nssoftwaresolutions.in/  
+📦 **All Projects:** https://www.nssoftwaresolutions.in/projects  
 
-⸻
+---
 
-📌 About This Repository
+## 📌 About This Repository
 
-This repository contains 50+ high-quality IEEE & academic projects, including:
-	•	Machine Learning
-	•	Deep Learning
-	•	Blockchain
-	•	Cybersecurity
-	•	NLP
-	•	Data Analytics
-	•	Web Development
-	•	IoT
-	•	Python Projects
+This repository provides **50+ high-quality IEEE & academic final year projects** across multiple domains:
 
-Every project includes:
+- Machine Learning  
+- Deep Learning  
+- Blockchain  
+- Cybersecurity  
+- NLP  
+- Data Analytics  
+- Web Development  
+- IoT / Smart Systems  
+- Python / AI Projects  
 
-✔ Source Code
-✔ Report
-✔ PPT
-✔ Synopsis
-✔ Research Paper
-✔ Installation Support
-✔ Plagiarism <15%
-✔ Turnitin Fix
-✔ Demo Video
-✔ Lifetime Support
+Each project comes with:
 
-⸻
+✔ Full Source Code  
+✔ Project Report  
+✔ PPT  
+✔ Synopsis  
+✔ IEEE Research Paper  
+✔ Installation Support  
+✔ Plagiarism <15%  
+✔ Turnitin Fixing  
+✔ Demo Video  
+✔ Lifetime Support  
 
-🔥 Project Categories
+---
 
-Category	Count
-Machine Learning	15
-Deep Learning	5
-NLP	5
-Blockchain	6
-Web / MERN	6
-IoT & Smart Systems	5
-Cybersecurity	4
-Data Analytics	5
-Total	50+
+## 🔥 Project Categories
+
+| Category              | Count |
+|----------------------|-------|
+| Machine Learning     | 15    |
+| Deep Learning        | 5     |
+| NLP                  | 5     |
+| Blockchain           | 6     |
+| Web / MERN           | 6     |
+| IoT & Smart Systems  | 5     |
+| Cybersecurity        | 4     |
+| Data Analytics       | 5     |
+| **Total**            | **50+** |
+
+---
 
 
-⸻
 
 ⭐ 50 IEEE Final Year Projects (With Direct Links)
 
@@ -154,20 +157,26 @@ All links open to official NS Software Solutions project pages.
 | 50 | Sentiment Analysis using Transformers | https://www.nssoftwaresolutions.in/projects/sentiment-analysis-transformer |
 ---------------------------------------
 
-📦 What You Get
-	•	Source Code
-	•	ML/DL Models
-	•	Dataset (if available)
-	•	Project Report
-	•	PPT
-	•	Synopsis
-	•	IEEE Research Paper
-	•	Plagiarism Fix (<15%)
-	•	Turnitin Assistance
-	•	Demo + Installation Setup
-	•	Lifetime Support
+## 📦 What You Get
 
-⸻
+- Source Code  
+- ML / DL Models  
+- Dataset (if available)  
+- Detailed Report  
+- PPT + Synopsis  
+- IEEE Research Paper  
+- Plagiarism Report (<15%)  
+- Turnitin Fixing Assistance  
+- Demo + Installation Setup  
+- Lifetime Technical Support  
+
+---
+
+## 📞 Contact for Full Project
+
+📧 **Email:** info.nssoftwaresolutions@gmail.com  
+🌐 **Website:** https://www.nssoftwaresolutions.in  
+📝 **Custom Projects:** https://www.nssoftwaresolutions.in/contact  
 
 📞 Contact for Full Project
 
