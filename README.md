@@ -35,73 +35,91 @@ Our projects span the most in-demand technological domains:
 
 ---
 
-### ⭐ Key Project Listings (IEEE-Focused)
+## ✨Advanced IEEE Final Year Projects: Enhanced List (Source Code & Full Support)
 
-The following tables highlight a selection of top IEEE-grade projects available in our catalog. Click the links for full details and project scope.
-
-#### 🧠 Machine Learning Projects
-
-| # | Project Title | IEEE Reference Link |
-| :--- | :--- | :--- |
-| 1 | **FractureAI – Bone Fracture Detection** (Deep Learning CNNs for Precision Medical Imaging) | [View Project](https://www.nssoftwaresolutions.in/projects/fractureai-revolutionizing-bone-fracture-detection-with-deep-learning-cnns-for-precision-medical-imaging) |
-| 2 | **Customer Churn Prediction** (A Machine Learning Approach for Telecom Sector) | [View Project](https://www.nssoftwaresolutions.in/projects/customer-churn-telecom) |
-| 3 | **Fake News Detection** (Enhancing Detection through Supervised ML and NLP Techniques) | [View Project](https://www.nssoftwaresolutions.in/projects/fake-news-detection) |
-| 4 | **Instagram Reach Analysis** (Prediction using Machine Learning Algorithms) | [View Project](https://www.nssoftwaresolutions.in/projects/instagram-reach-analysis) |
-| 5 | **Drug Recommendation** (Exploring through Sentiment Analysis) | [View Project](https://www.nssoftwaresolutions.in/projects/drug-recommendation-ml) |
-| 6 | **Heart Disease Prediction** (Using ML and Different Data Classification Techniques) | [View Project](https://www.nssoftwaresolutions.in/projects/heart-disease-prediction) |
-| 8 | **Liver Cirrhosis Stage Classification** (ML-Driven Exploration and Stages Classification) | [View Project](https://www.nssoftwaresolutions.in/projects/liver-cirrhosis-ml) |
-| 9 | **Stroke Risk Prediction** (Using Machine Learning and SMOTE Technique) | [View Project](https://www.nssoftwaresolutions.in/projects/stroke-prediction) |
-| 15 | **Fake Account Detection** (Using Artificial Neural Networks) | [View Project](https://www.nssoftwaresolutions.in/projects/fake-account-detection) |
-
-#### 🤖 Deep Learning / Computer Vision Projects
-
-| # | Project Title | IEEE Reference Link |
-| :--- | :--- | :--- |
-| 16 | **Image Inpainting** (Using Deep Learning Architectures: PConv and GAN) | [View Project](https://www.nssoftwaresolutions.in/projects/image-inpainting-gan) |
-| 17 | **Emotion-Based Image Captioning** (For Visual Artworks Using Affective Visual Encoders) | [View Project](https://www.nssoftwaresolutions.in/projects/emotion-image-captioning) |
-| 18 | **Eye Disease Detection (Optivue)** (A Smart Approach To Eye Health Screening) | [View Project](https://www.nssoftwaresolutions.in/projects/eye-disease-detection) |
-
-#### 🔐 Cybersecurity & Cryptography Projects
-
-| # | Project Title | IEEE Reference Link |
-| :--- | :--- | :--- |
-| 23 | **Malware Classification using ML** (Approaches for Detection in Cloud Portable Executable Files) | [View Project](https://www.nssoftwaresolutions.in/projects/malware-detection-ml) |
-| 24 | **AES Secure Communication System** (Optimizing Security: A Comparative Analysis of RSA, ECC, and DH Algorithms) | [View Project](https://www.nssoftwaresolutions.in/projects/aes-secure-communication) |
-| 26 | **UPI Fraud Detection using ML (PaySafe AI)** (Intelligent Fraud Detection for UPI Transactions) | [View Project](https://www.nssoftwaresolutions.in/projects/upi-fraud-detection) |
-
-#### ⛓️ Blockchain Projects
-
-| # | Project Title | IEEE Reference Link |
-| :--- | :--- | :--- |
-| 29 | **Blockchain Health Record System** (Unlocking the Potential of Blockchain Integration in Secured Framework) | [View Project](https://www.nssoftwaresolutions.in/projects/blockchain-health-record) |
-| 27 | **Land Registry using Blockchain** | [View Project](https://www.nssoftwaresolutions.in/projects/land-registry-blockchain) |
-
-#### 📡 IoT & Smart Systems Projects
-
-| # | Project Title | IEEE Reference Link |
-| :--- | :--- | :--- |
-| 39 | **Smart Transit Bus Tracking** (Machine Learning-Enabled Smart Transit: Real-Time Bus Tracking) | [View Project](https://www.nssoftwaresolutions.in/projects/smart-transit-bus-tracking) |
-
-#### 📊 Data Science & NLP Projects
-
-| # | Project Title | IEEE Reference Link |
-| :--- | :--- | :--- |
-| 46 | **Customer Personality Analysis** (Optimizing Marketing Strategies: Predicting Customer Personality) | [View Project](https://www.nssoftwaresolutions.in/projects/customer-personality-analysis) |
-| 47 | **Text Clustering & Classification** (Optimizing Textual Data Categorization: K-Means, Mean Shift, Hierarchical) | [View Project](https://www.nssoftwaresolutions.in/projects/text-clustering) |
-| 50 | **Sentiment Analysis using Transformers** (Transformer-Based Approach) | [View Project](https://www.nssoftwaresolutions.in/projects/sentiment-analysis-transformer) |
+This list contains high-quality, academic-focused projects spanning Machine Learning, Deep Learning, Cybersecurity, NLP, and more. Each slug links to the project details on the NS Software Solutions website.
 
 ---
 
-### 📦 Complete Project Package Includes
+### 🧠 Machine Learning & Deep Learning Projects (Diagnostics & Prediction)
 
-When you acquire a project, you receive the complete academic and technical package:
+| # | Project Title | Domain/Focus | Link Slug |
+| :--- | :--- | :--- | :--- |
+| 1 | **FractureAI – Bone Fracture Detection** | Deep Learning / CNNs / Medical Imaging | `fractureai-revolutionizing-bone-fracture-detection-with-deep-learning-cnns-for-precision-medical-imaging` |
+| 2 | **Deep Learning & Transfer Learning in Cardiology** | Deep Learning / Healthcare | `deep-learning-and-transfer-learning-in-cardiology-a-review-of-cardiovascular-disease-prediction-models` |
+| 3 | **Stroke Risk Prediction** | Machine Learning / Healthcare (SMOTE Technique) | `stroke-risk-prediction-using-machine-learning-and-smote-technique` |
+| 4 | **Predicting Heart Diseases** | Machine Learning / Healthcare | `predicting-heart-diseases-using-machine-learning-and-different-data-classification-techniques` |
+| 5 | **Liver Cirrhosis Stage Classification** | Machine Learning / Healthcare | `machine-learning-driven-exploration-and-stages-classification-of-liver-cirrhosis-a-comprehensive-approach` |
+| 6 | **Fetal Health Assessment** | Machine Learning / Predictive Healthcare | `machine-learning-applications-in-predictive-fetal-health-assessment-and-early-intervention` |
+| 7 | **Optivue - Eye Health Screening** | Deep Learning / Computer Vision | `optivue-a-smart-approach-to-eye-health-screening` |
+| 8 | **Image Inpainting using GAN + PConv** | Deep Learning / Computer Vision | `image-inpainting-using-deep-learning-architectures-pconv-and-gan` |
+| 9 | **Emotion-Conditioned Image Captioning** | Deep Learning / NLP / Visual Art | `emotion-conditioned-image-captioning-for-visual-artworks-using-affective-visual-encoders` |
 
-| Deliverable | Description | Support |
-| :--- | :--- | :--- |
-| ✔ **Full Source Code** | Complete, tested, and functional code for the project. | |
-| ✔ **Detailed Project Report** | Comprehensive documentation, including design, implementation, and results. | |
-| ✔ **PPT & Synopsis** | Ready-to-use presentation and project outline documents. | |
-| ✔ **IEEE Paper Assistance** | Guidance and drafting support for publishing a paper. | |
-| ✔ **Plagiarism Check** | Guarantee of **<15% Plagiarism** (as per academic standards). | |
-| ✔ **AI/Turnitin Fixing** | Assistance with detection and fixing of AI-generated content flags. | |
-| ✔ **Installation Support** | Live support for project setup and running the demo. | **Lifetime Technical Support** |
+---
+
+### 📊 ML for Business, Social & Behavioral Analytics
+
+| # | Project Title | Domain/Focus | Link Slug |
+| :--- | :--- | :--- | :--- |
+| 10 | **Customer Churn Prediction** | Machine Learning / Telecom Sector | `a-machine-learning-approach-for-customer-churn-prediction-in-telecom-sector` |
+| 11 | **Customer Personality Analysis** | Machine Learning / Marketing Strategy | `optimizing-marketing-strategies-predicting-customer-personality-using-advanced-machine-learning-models` |
+| 12 | **Instagram Reach Analysis** | Machine Learning / Social Media | `instagram-reach-analysis-using-machine-learning-algorithms` |
+| 13 | **Employee Layoff Prediction** | Deep Learning / HRM / Time-Series Data | `employee-layoff-prediction-using-recurrent-neural-network-and-hybrid-neuro-classifier` |
+| 14 | **Electronic Gadget Addiction Prediction** | Machine Learning / Behavioral Science (ONCS Scheme) | `oncs-experimental-design-to-predict-students-electronic-gadget-addiction-using-optimized-neural-classification-scheme` |
+| 15 | **Drug Recommendations** | Machine Learning / Sentiment Analysis | `exploring-drug-recommendations-through-sentiment-analysis-a-machine-learning-perspective` |
+
+---
+
+### 🔐 Cybersecurity, Networking & Digital Systems
+
+| # | Project Title | Domain/Focus | Link Slug |
+| :--- | :--- | :--- | :--- |
+| 16 | **UPI Fraud Detection (PaySafe AI)** | Machine Learning / Finance Security | `paysafe-al-intelligent-fraud-detection-for-upi-transactions-using-ml` |
+| 17 | **Malware Detection** | Machine Learning / Cybersecurity | `machine-learning-approaches-for-malware-detection-in-cloud-portable-executable-files` |
+| 18 | **Fake Account Detection** | Machine Learning / ANN / Social Media Security | `fake-account-detection-using-artificial-neural-networks-` |
+| 19 | **Comparative Analysis of RSA, ECC, DH** | Cryptography / Network Security | `optimizing-security-a-comparative-analysis-of-rsa-ecc-and-dh-algorithms` |
+| 20 | **AI/ML in Wireless Systems (5G to 6G)** | Survey/Research (AI in Networking) | `from-5g-to-6g-the-role-of-ai-machine-learning-and-deep-learning-in-wireless-systems` |
+| 21 | **Learning Models of Cyber-Physical Systems** | Digital Twin Synthesis / CPS | `learning-models-of-cyber-physical-systems-with-discrete-and-continuous-behaviour-for-digital-twin-synthesis` |
+
+---
+
+### 💬 NLP, Data Analytics & Blockchain Projects
+
+| # | Project Title | Domain/Focus | Link Slug |
+| :--- | :--- | :--- | :--- |
+| 22 | **Enhancing False News Detection** | Machine Learning / NLP / Supervised ML | `enhancing-false-news-detection-through-supervised-machine-learning-and-nlp-techniques` |
+| 23 | **Sentiment Analysis using Transformers** | NLP / Deep Learning | `sentiment-analysis-of-machine-learning-algorithms-a-transformer-based-approach` |
+| 24 | **Text Clustering & Categorization** | Data Analytics / Clustering Algorithms | `optimizing-textual-data-categorization-an-evaluation-of-k-means-mean-shift-and-hierarchical-clustering-methods` |
+| 25 | **Blockchain in Mental Health Records** | Blockchain / Secured Framework | `unlocking-the-potential-of-blockchain-integration-in-secured-framework-of-mental-health` |
+| 26 | **Smart Transit Bus Tracking** | IoT / ML-Enabled Real-Time Tracking | `machine-learning-enabled-smart-transit-real-time-bus-tracking-system-for-enhanced-urban-mobility` |
+
+---
+
+### 🖥️ Conventional/Legacy Web Projects (for Reference)
+
+| # | Project Title | Domain/Focus | Link Slug |
+| :--- | :--- | :--- | :--- |
+| 27 | **Hospital Management System** | Web Development (PHP/MySQL) | `hospital-management-system-in-php` |
+| 28 | **Online Shopping Portal** | Web Development (PHP/MySQL) | `online-shopping-portal-in-php-and-mysql` |
+
+---
+
+### 📦 What You Get with Every Project
+
+| Deliverable | Key Benefit |
+| :--- | :--- |
+| ✔ **Source Code** | Fully functional and well-documented. |
+| ✔ **Detailed Report & PPT** | Ready for submission (including synopsis). |
+| ✔ **IEEE Research Paper** | Assistance for publication and drafting. |
+| ✔ **Plagiarism Check** | Guarantee of **<15%** uniqueness. |
+| ✔ **AI/Turnitin Fixing** | Support to ensure academic originality. |
+| ✔ **Installation & Demo** | Live support for setup and technical queries. |
+
+---
+
+### 📞 Contact for Full Project
+
+Ready to get started? Contact the providers directly:
+
+* **Email:** `info.nssoftwaresolutions@gmail.com`
+* **Website:** [https://www.nssoftwaresolutions.in/](https://www.nssoftwaresolutions.in/)
