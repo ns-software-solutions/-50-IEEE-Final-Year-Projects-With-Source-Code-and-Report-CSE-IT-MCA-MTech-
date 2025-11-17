@@ -58,24 +58,25 @@ All links open to official NS Software Solutions project pages.
 
 ⸻
 
-🧠 Machine Learning Projects
+## 🧠 Machine Learning Projects
 
-#	Project Title	Link
-1	FractureAI – Bone Fracture Detection	https://www.nssoftwaresolutions.in/projects/fractureai-revolutionizing-bone-fracture-detection-with-deep-learning-cnns-for-precision-medical-imaging
-2	Customer Churn Prediction (Telecom)	https://www.nssoftwaresolutions.in/projects/customer-churn-telecom
-3	Fake News Detection using ML + NLP	https://www.nssoftwaresolutions.in/projects/fake-news-detection
-4	Instagram Reach Prediction	https://www.nssoftwaresolutions.in/projects/instagram-reach-analysis
-5	Drug Recommendation using Sentiment Analysis	https://www.nssoftwaresolutions.in/projects/drug-recommendation-ml
-6	Heart Disease Prediction	https://www.nssoftwaresolutions.in/projects/heart-disease-prediction
-7	Diabetes Prediction	https://www.nssoftwaresolutions.in/projects/diabetes-prediction
-8	Liver Cirrhosis Stage Classification	https://www.nssoftwaresolutions.in/projects/liver-cirrhosis-ml
-9	Stroke Prediction	https://www.nssoftwaresolutions.in/projects/stroke-prediction
-10	Cricket Score Prediction	https://www.nssoftwaresolutions.in/projects/cricket-score-ml
-11	CO₂ Emission Prediction	https://www.nssoftwaresolutions.in/projects/co2-emission-ml
-12	Brain Tumor Detection	https://www.nssoftwaresolutions.in/projects/brain-tumor-detection
-13	Lung Cancer Detection	https://www.nssoftwaresolutions.in/projects/lung-cancer-detection
-14	Plant Disease Detection	https://www.nssoftwaresolutions.in/projects/plant-disease-detection
-15	Fake Account Detection using ML	https://www.nssoftwaresolutions.in/projects/fake-account-detection
+| #  | Project Title                                  | Link |
+|----|------------------------------------------------|------|
+| 1  | FractureAI – Bone Fracture Detection           | https://www.nssoftwaresolutions.in/projects/fractureai-revolutionizing-bone-fracture-detection-with-deep-learning-cnns-for-precision-medical-imaging |
+| 2  | Customer Churn Prediction (Telecom)            | https://www.nssoftwaresolutions.in/projects/customer-churn-telecom |
+| 3  | Fake News Detection using ML + NLP             | https://www.nssoftwaresolutions.in/projects/fake-news-detection |
+| 4  | Instagram Reach Prediction                     | https://www.nssoftwaresolutions.in/projects/instagram-reach-analysis |
+| 5  | Drug Recommendation using Sentiment Analysis   | https://www.nssoftwaresolutions.in/projects/drug-recommendation-ml |
+| 6  | Heart Disease Prediction                       | https://www.nssoftwaresolutions.in/projects/heart-disease-prediction |
+| 7  | Diabetes Prediction                            | https://www.nssoftwaresolutions.in/projects/diabetes-prediction |
+| 8  | Liver Cirrhosis Stage Classification           | https://www.nssoftwaresolutions.in/projects/liver-cirrhosis-ml |
+| 9  | Stroke Prediction                              | https://www.nssoftwaresolutions.in/projects/stroke-prediction |
+| 10 | Cricket Score Prediction                       | https://www.nssoftwaresolutions.in/projects/cricket-score-ml |
+| 11 | CO₂ Emission Prediction                        | https://www.nssoftwaresolutions.in/projects/co2-emission-ml |
+| 12 | Brain Tumor Detection                          | https://www.nssoftwaresolutions.in/projects/brain-tumor-detection |
+| 13 | Lung Cancer Detection                          | https://www.nssoftwaresolutions.in/projects/lung-cancer-detection |
+| 14 | Plant Disease Detection                        | https://www.nssoftwaresolutions.in/projects/plant-disease-detection |
+| 15 | Fake Account Detection using ML                | https://www.nssoftwaresolutions.in/projects/fake-account-detection |
 
 
 ⸻
